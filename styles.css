@@ -1,0 +1,14 @@
+h1 {
+  color: darkgoldenrod;
+  background-color: black;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+  color: darkolivegreen;
+  font-size: 25px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+}
